@@ -31,7 +31,6 @@
            <img src="https://img.shields.io/badge/IntelliJ_IDEA-2024.3.5-%23000000" alt="Idea"/><br><br>
   <strong>✨VCS✨</strong><br>
            <img src="https://img.shields.io/badge/Github-%23181717" alt="Git"/><br><br>
-  </p>
 </div>
 <h2 align="center">⭐ ERD</h2>
 <p align="center">
@@ -89,6 +88,7 @@
       </tr>
     </table>
 </details>
+
 <br><br><h2 align="center">🌟 CSR, Rest API, 세션 기술을 활용한 버전</h2>
 
 
